@@ -21,3 +21,19 @@ Constraints:
 0 <= arr[i] <= 103
 0 <= target <= 109
 ```
+
+## 2. Given an array arr, count the number of distinct triplets (a, b, c) such that:
+```sh
+a + b = c
+
+Each triplet is counted only once, regardless of the order of a and b.
+Input: arr[] = [1, 5, 3, 2]
+Output: 2 
+Explanation: There are 2 triplets: 1 + 2 = 3 and 3 +2 = 5
+Input: arr[] = [2, 3, 4]
+Output: 0
+Explanation: No such triplet exits
+Constraints:
+1 ≤ arr.size() ≤ 103
+1 ≤ arr[i] ≤ 105
+```
