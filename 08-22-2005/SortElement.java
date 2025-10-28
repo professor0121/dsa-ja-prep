@@ -13,7 +13,7 @@ public class SortElement {
                     low++;
                     mid++;
                     break;
-                case 1:
+                case 1:!
                     mid++;
                     break;
                 case 2:
@@ -26,8 +26,9 @@ public class SortElement {
             }
         }
     }
+
     public static void main(String[] args) {
-        int arr[]={0,1,2,0,1,2};
+        int arr[] = { 0, 1, 2, 0, 1, 2 };
         sort012(arr);
     }
 }
