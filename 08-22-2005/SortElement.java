@@ -13,7 +13,7 @@ public class SortElement {
                     low++;
                     mid++;
                     break;
-                case 1:!
+                case 1:
                     mid++;
                     break;
                 case 2:
