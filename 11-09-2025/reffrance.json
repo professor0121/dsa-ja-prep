@@ -1,0 +1,9 @@
+[
+    {
+        "QuestionId":1,
+        "TimeTaken":"10min",
+        "TimeComplexity":"O(n)",
+        "SpaceComplexity":"O(n)",
+        "LogicReffrance":"create a new array and push int pointer wise"
+    }
+]
